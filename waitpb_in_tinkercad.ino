@@ -114,7 +114,7 @@ void waitms(uint16_t time_ms)
     if(i == TIME_IN_MS)digitalWrite(OUTPUT_PIN, LOW);
   }
 }
-}; // end of waitpd class :D
+}; // end of waitpb class :D
 
 /****************Simulate the Code****************/
 
