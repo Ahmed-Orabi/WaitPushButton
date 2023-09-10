@@ -1,6 +1,6 @@
 /*
 This code make for simulate in Tinkercad by using (waitpb) Class
-and Two constructors and Five metods ;) 
+and Two constructors and Five methods ;) 
  */
 class waitpb{
   uint8_t PUSHBUTTON_ON;
