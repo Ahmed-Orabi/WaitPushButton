@@ -1,6 +1,6 @@
 #include <waitpb.h>
 waitpb w(5,6,7,2000);
-//waitpb w1(5,6,7);
+//waitpb w1(2,3,4);
 
 void setup() {
   // put your setup code here, to run once:
